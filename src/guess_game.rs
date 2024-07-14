@@ -3,7 +3,7 @@ use rand::prelude::*;
 use colored::*;
 
 pub fn game(){
-    let ques = ["flat ka chor","biggest harami","sbka beta","sbki beti","sbse bdi raand"];
+    let ques = ["flat ka chor","biggest Nalla","sbka beta","biggest Kamchor","biggest Kanjus"];
     let guess_name = ["shivansh","saurabh","darshit","prateek","piyush","umar"];
     let mut rng = thread_rng();
 
